@@ -46,6 +46,10 @@ Individual product endpoint:
 
 https://dummyjson.com/products/:id
 
+Live Demo
+
+https://sprint-6-pi.vercel.app/
+
 ## 📂 Project Structure
 
 ```text
